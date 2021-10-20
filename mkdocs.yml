@@ -1,0 +1,5 @@
+site_name: Gale Documentation
+site_url: https://doc.galebotlol.repl.co/
+nav:
+    - Home: index.md
+    - About: about.md
