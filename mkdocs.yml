@@ -1,5 +1,5 @@
 site_name: Gale Documentation
-site_url: https://doc.galebotlol.repl.co/
+site_url: https://pherngpy.github.io/
 nav:
     - Home: index.md
     - About: about.md
