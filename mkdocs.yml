@@ -3,4 +3,5 @@ site_url: https://pherngpy.github.io/
 nav:
     - Home: index.md
     - About: about.md
-    theme: mkdocs
+    theme: 
+    name: material
