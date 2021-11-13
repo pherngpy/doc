@@ -11,6 +11,8 @@ features:
     - search.suggest
     - search.highlight
     - search.share
+extra:
+    - generator: false
 
 
 
