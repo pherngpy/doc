@@ -10,6 +10,7 @@ plugins:
 features:
     - search.suggest
     - search.highlight
+    - search.share
 
 
 
