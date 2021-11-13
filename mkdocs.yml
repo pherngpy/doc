@@ -4,9 +4,6 @@ nav:
     - Home: index.md
     - About: about.md
 theme: material
-plugins:
-  - search:
-      - lang: en
 features:
     - search.suggest
     - search.highlight
