@@ -7,6 +7,9 @@ theme: material
 plugins:
   - search:
       lang: en
+features:
+    - search.suggest
+    - search.highlight
 
 
 
