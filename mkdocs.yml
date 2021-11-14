@@ -13,7 +13,7 @@ theme:
     - navigation.tracking
     - navigation.top
     name: 'material'
-palette: 
+palette: #
     - scheme: default
       toggle:
         icon: material/weather-sunny
