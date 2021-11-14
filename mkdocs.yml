@@ -4,6 +4,14 @@ nav:
     - Home: index.md
     - About: about.md
 theme: 
+    features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.top
     name: 'material'
 palette: # 
 
@@ -16,14 +24,6 @@ palette: #
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-features:
-    - search.suggest
-    - search.highlight
-    - search.share
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.tracking
-    - navigation.top
 extra:
     generator: false
 plugins:
