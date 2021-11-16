@@ -5,6 +5,7 @@ nav:
     - About: about.md
 theme: 
     palette:
+    - primary: cyan
     - scheme: default
       toggle:
         icon: material/weather-sunny
