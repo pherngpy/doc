@@ -5,8 +5,6 @@ nav:
     - About: about.md
 theme: 
     palette:
-    - primary: cyan
-    - accent: lime
     - scheme: default
       toggle:
         icon: material/weather-sunny
@@ -15,6 +13,8 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode    
+    - primary: cyan
+    - accent: lime
     features:
     - search.suggest
     - search.highlight
