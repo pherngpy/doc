@@ -23,6 +23,7 @@ theme:
     - navigation.top
     name: 'material'
 markdown_extensions:
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
 
