@@ -13,8 +13,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode    
-    - primary: cyan
-    - accent: lime
+    - accent: cyan
     features:
     - search.suggest
     - search.highlight
