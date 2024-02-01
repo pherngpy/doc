@@ -1,10 +1,11 @@
 site_name: ShockBS Documentation
 site_url: https://shockbs.github.io/
 nav:
-    - Home: index.md
-    - About: about.md
+  - Home: index.md
+  - About: about.md
 theme: 
-    palette:
+  name: 'material'
+  palette:
     - scheme: default
       primary: indigo
       accent: indigo
@@ -17,7 +18,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-    features:
+  features:
     - content.code.annotate
     - search.suggest
     - search.highlight
@@ -26,7 +27,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.tracking
     - navigation.top
-    name: 'material'
 markdown_extensions:
   - admonition
   - abbr
@@ -67,12 +67,10 @@ markdown_extensions:
   - pymdownx.tilde
 
 extra:
-    generator: false
+  generator: false
 plugins:
   - offline
   - optimize
   - blog
   - search:
       lang: 'en'
-
-
